@@ -4,4 +4,4 @@ def fatorial(x):
     else:
         return x * fatorial(x - 1)
     
-print(fatorial(5))
+print(fatorial(3))
